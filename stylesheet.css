@@ -11,15 +11,22 @@ body{
   padding-bottom:20px;
 
 }
-button{
+.button{
   background-color:#3b5998;
   color:white;
   height: 30px;
-  
+
   width:30%;
   margin-bottom:5px;
+  text-align:center;
+
+margin-left:200px;
 
 
+}
+.button a{
+  text-align:center;
+  color:#ffffff;
 
 }
 hr{
