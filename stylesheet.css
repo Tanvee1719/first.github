@@ -1,0 +1,48 @@
+body{
+  background-color:#D1F2EB   ;
+
+}
+.container{
+  background-color: #ffffff;
+  margin:0 auto;
+  text-align: center;
+  width:50%;
+  border-radius:10px;
+  padding-bottom:20px;
+
+}
+button{
+  background-color:#3b5998;
+  color:white;
+  height: 30px;
+  
+  width:30%;
+  margin-bottom:5px;
+
+
+
+}
+hr{
+  width:80%;
+}
+.container h1{
+  padding-top: 25px;
+
+  padding-bottom:2px;
+}
+.container input{
+  width:50%;
+  height:25px;
+}
+/*for adjusting the width of checkbox*/
+.container input[type=checkbox]{
+  width: auto;
+  height:auto;
+
+}
+.signup input{
+  width:40%;
+  padding-top:5px;
+  padding-bottom:10px;
+
+}
